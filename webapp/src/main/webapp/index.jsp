@@ -1,4 +1,4 @@
-<h1> ############### WELCOME  TO  AMAZON WEB SERVICES     ############### </h1>
+<h1> ############### WELCOME  TO  AMAZON WEB SERVICES NEW CLASS   ############### </h1>
 
 Available courses..
 
