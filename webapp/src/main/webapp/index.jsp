@@ -2,5 +2,5 @@
 
 Available courses are AWS Devops  and java ,python
 
-also we are looking for robotics technolgies.......
+also we are looking for robotics technolgies.....
 
